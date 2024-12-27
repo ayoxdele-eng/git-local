@@ -1,24 +1,33 @@
 # git-local
 
-![git 1](https://github.com/user-attachments/assets/3a9d3863-076f-4011-a35a-090a61ee9117)
+![git-term 1](https://github.com/user-attachments/assets/33cf3272-4519-45ad-a721-bdf0f7c11426)
 
-![git 2](https://github.com/user-attachments/assets/2a7c16e1-434a-43aa-9a22-30ab7ae5fb63)
+![git-term 2](https://github.com/user-attachments/assets/ef5584ec-0b8c-4067-967e-372c94692f95)
 
-![git 3](https://github.com/user-attachments/assets/56211768-efb0-4be0-b397-fd783f57df44)
+![git-term 3](https://github.com/user-attachments/assets/68ba7ab8-792d-4d02-9283-80c89c97a860)
 
-![git 4](https://github.com/user-attachments/assets/7d972348-8b9d-4a79-89ea-17de74112d55)
+![git-term 4](https://github.com/user-attachments/assets/812c67ea-4389-4859-9c38-f8d4bae8fc55)
 
-![git 5](https://github.com/user-attachments/assets/268e0f5d-616d-40a6-af79-3f7849ab52db)
+![git-term 5](https://github.com/user-attachments/assets/ac029e27-2f43-4fc8-9d3a-21181e5fd117)
 
-![git-term 1](https://github.com/user-attachments/assets/db502717-7652-4de2-88c9-8300866a372a)
+![git 1](https://github.com/user-attachments/assets/76600662-2fec-4267-90b4-34bad906649a)
 
-![git-term 2](https://github.com/user-attachments/assets/0aba9f9a-6715-43da-b094-ab1fd1198c98)
+![git 2](https://github.com/user-attachments/assets/b1c161f7-017e-434b-949f-947301e9f4a8)
 
-![git-term 3](https://github.com/user-attachments/assets/baa6b533-6597-442e-99a4-5c8740a9c129)
+![git 3](https://github.com/user-attachments/assets/20ba96fa-3ac0-4e70-8300-02a1901c0530)
 
-![git-term 4](https://github.com/user-attachments/assets/c78b0ca1-73d6-47ba-ae8d-0da08136d820)
+![git 4](https://github.com/user-attachments/assets/236471f0-c0ed-4050-befc-26b99f570999)
 
-![git-term 5](https://github.com/user-attachments/assets/5ca6f7c3-19a0-482e-b56a-ab72aed792a0)
+![git 5](https://github.com/user-attachments/assets/90feeabc-341b-49df-8cb8-c3aab3e95835)
+
+
+
+
+
+
+
+
+
 
 
 

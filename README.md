@@ -29,7 +29,7 @@
 
 ![git 2](https://github.com/user-attachments/assets/b1c161f7-017e-434b-949f-947301e9f4a8)
 
-# Step 8: Go to SSH and GPG keys.
+# Step 8: Go to "SSH and GPG keys" and click on it.
 
 ![git 3](https://github.com/user-attachments/assets/20ba96fa-3ac0-4e70-8300-02a1901c0530)
 
